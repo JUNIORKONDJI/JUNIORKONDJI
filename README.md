@@ -6,7 +6,7 @@
 ---
 
 ### 📝 About Me
-I am a Master’s student in **Computer Engignering – Computing Systems & Networks**, passionate about **web development, cybersecurity, and scalable infrastructures**. I enjoy bridging the gap between **complex network systems** and **user-friendly web applications**.  
+I am a Master’s student in **Computer Engineering – Computing Systems & Networks**, passionate about **web development, cybersecurity, and scalable infrastructures**. I enjoy bridging the gap between **complex network systems** and **user-friendly web applications**.  
 
 I have hands-on experience with **frontend development, programming in Java/Python/C/C++, and database management (SQL)**. I am highly motivated to contribute to **real-world projects** and grow as a **junior developer or web engineer**, including remote opportunities.
 

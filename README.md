@@ -8,7 +8,7 @@
 ### 📝 About Me
 I am a Master’s student in **Computer Engineering – Computing Systems & Networks**, passionate about **web development, cybersecurity, and scalable infrastructures**. I enjoy bridging the gap between **complex network systems** and **user-friendly web applications**.  
 
-I have hands-on experience with **frontend development, programming in Java/Python/C/C++, and database management (SQL)**. I am highly motivated to contribute to **real-world projects** and grow as a **junior developer or web engineer**, including remote opportunities.
+I have hands-on experience with **frontend /Backend development, programming in Java/Python/C/C++, and database management (SQL)**. I am highly motivated to contribute to **real-world projects** and grow as a **junior developer or web engineer**, including remote opportunities.
 
 - 🌍 Based in **Florence, Italy** 🇮🇹  
 - 🎯 Looking for: **Junior Developer / Web Developer / Remote Internship/Cybersecurity Analyst SOC/Pentester**  

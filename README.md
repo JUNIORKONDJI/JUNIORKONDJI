@@ -11,4 +11,4 @@ Highlights include:
 - **Python Security Tool** – Network analysis and security utilities  
 
 ### How to reach me
-[Email](mailto:kondjijunior@gmail.com) | [GitHub](https://github.com/JUNIORKONDJI) | [LinkedIn](https://www.linkedin.com/in/JUNIORKONDJI)
+[Email](mailto:kondjijunior@gmail.com) | [GitHub](https://github.com/JUNIORKONDJI) | [LinkedIn](https://www.linkedin.com/in/junior-kondji-41b600356)
